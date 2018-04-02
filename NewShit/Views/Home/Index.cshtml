@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div>
+    <h1>Realize... Wrekonize</h1>
+</div>
+<div class="not-capable">
+    <h2>Please use Firefox or Chrome and be equipped by a webcam!</h2>
+</div>
+<div class="api-not-available">
+    <h2>Error: Environmental Detection API not avaiable!!!!</h2>
+</div>
+<div class="capable">
+    <div class="webcam-allowed">
+        <div class="video-container">
+            <div class="record">
+                <video class="video" height="280" width="460" autoplay></video>
+            </div>
+        </div>
+        <button class="button">Wrekonize</button>
+        <div class="canvas-container" height="280" width="460">
+            <canvas class="canvas"></canvas>
+        </div>
+    </div>
+    <div class="webcam-denied">
+        <h2>To continue exercise please refresh the page and allow your webcam!</h2>
+    </div>
+    <div class="results">
+        <div class="results-container">
+            <h2>Results</h2>
+            <pre class="results"></pre>
+        </div>
+        <div class="error-container">
+            <h2>Error</h2>
+            <pre class="error"></pre>
+        </div>
+    </div>
+    <script src="https://codesdwncdn.realeyesit.com/environment-checker/release/2/Realeyesit.EnvironmentalDetectionAPI.js"></script>
+

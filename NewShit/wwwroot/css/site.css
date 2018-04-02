@@ -1,0 +1,39 @@
+﻿.video {
+    display: block;
+}
+
+.video-container,
+.canvas-container {
+    display: inline-block;
+}
+
+.not-capable,
+.capable,
+.api-not-available,
+.results,
+.webcam-allowed,
+.webcam-denied {
+    display: none;
+}
+
+.webcam-allowed {
+    width: 70%;
+}
+
+.api-not-available {
+    color: red;
+}
+
+.webcam-allowed {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    max-height: 30px;
+    margin: auto 25px;
+}
+
+.canvas {
+    margin: 0 50px;
+}

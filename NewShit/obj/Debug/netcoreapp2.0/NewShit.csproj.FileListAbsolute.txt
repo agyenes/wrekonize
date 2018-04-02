@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\NewShit\NewShit\bin\Debug\netcoreapp2.0\NewShit.deps.json
+C:\Users\hp\source\repos\NewShit\NewShit\bin\Debug\netcoreapp2.0\NewShit.runtimeconfig.json
+C:\Users\hp\source\repos\NewShit\NewShit\bin\Debug\netcoreapp2.0\NewShit.runtimeconfig.dev.json
+C:\Users\hp\source\repos\NewShit\NewShit\bin\Debug\netcoreapp2.0\NewShit.dll
+C:\Users\hp\source\repos\NewShit\NewShit\bin\Debug\netcoreapp2.0\NewShit.pdb
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.AssemblyInfo.cs
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.dll
+C:\Users\hp\source\repos\NewShit\NewShit\obj\Debug\netcoreapp2.0\NewShit.pdb
